@@ -1,0 +1,8 @@
+[package]
+name = "encrypji"
+version = "0.1.0"
+authors = ["Dave Allie <dave@daveallie.com>"]
+
+[dependencies]
+"encoji" = "0.1"
+"rust-crypto" = "^0.2"
